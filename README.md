@@ -34,3 +34,7 @@ Este proyecto consiste en un acordeón interactivo que permite mostrar y ocultar
 5. **Contribuciones**
    ```bash
    Si deseas contribuir al proyecto, siéntete libre de abrir un issue o enviar un pull request.
+
+## Página del proyecto (Project Page)
+   ```bash
+   https://edionel.github.io/roadmap-acordeon/
