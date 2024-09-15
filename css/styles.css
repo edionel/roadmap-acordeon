@@ -2,16 +2,26 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.accordion {
+h1,
+h2 {
+    width: 80%;
+    margin-top: 40px;
+    margin-left: 0px;
+    /* Alineación horizontal con el acordeón */
+    margin-right: 0px;
+    /* Alineación horizontal con el acordeón */
+}
+
+.acordeon {
     width: 80%;
     margin: 20px auto;
 }
 
-.accordion-item {
+.acordeon-item {
     margin-bottom: 10px;
 }
 
-.accordion-header {
+.acordeon-header {
     background-color: black;
     color: white;
     padding: 15px;
@@ -22,7 +32,7 @@ body {
     align-items: center;
 }
 
-.accordion-content {
+.acordeon-contenido {
     margin-top: 5px;
     background-color: white;
     /* Fondo blanco */

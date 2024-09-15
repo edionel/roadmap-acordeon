@@ -1,6 +1,6 @@
-function toggleAccordion(header) {
+function alternaRespAcordeon(header) {
     const content = header.nextElementSibling;
-    const allContents = document.querySelectorAll('.accordion-content');
+    const allContents = document.querySelectorAll('.acordeon-contenido');
 
     // Colapsar otras secciones
     allContents.forEach(item => {
