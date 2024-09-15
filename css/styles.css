@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.accordion {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.accordion-item {
+    margin-bottom: 10px;
+}
+
+.accordion-header {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.accordion-content {
+    margin-top: 5px;
+    background-color: white;
+    /* Fondo blanco */
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid black;
+    /* Borde negro */
+    display: none;
+    /* Oculto por defecto */
+}
+
+.arrow {
+    font-size: 18px;
+}
