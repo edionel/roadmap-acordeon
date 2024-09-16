@@ -1,6 +1,9 @@
 # roadmap-acordeon
 accordion component that displays a list of questions or headings
 
+## Project Page:
+   https://github.com/edionel/roadmap-acordeon
+
 # Acordeón Interactivo
 
 Este proyecto consiste en un acordeón interactivo que permite mostrar y ocultar contenido de manera sencilla y visualmente atractiva. Es ideal para organizar preguntas frecuentes, tutoriales o cualquier información que desees presentar de forma compacta.
@@ -35,6 +38,6 @@ Este proyecto consiste en un acordeón interactivo que permite mostrar y ocultar
    ```bash
    Si deseas contribuir al proyecto, siéntete libre de abrir un issue.
 
-## Página del proyecto (Project Page)
+## Página del proyecto (Github Pages)
    ```bash
    https://edionel.github.io/roadmap-acordeon/
