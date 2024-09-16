@@ -17,7 +17,7 @@ Este proyecto consiste en un acordeón interactivo que permite mostrar y ocultar
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://tu-repositorio-url.git
+   git clone https://github.com/edionel/roadmap-acordeon.git
 
 2. **Navega al directorio**:
    ```bash
@@ -33,7 +33,7 @@ Este proyecto consiste en un acordeón interactivo que permite mostrar y ocultar
 
 5. **Contribuciones**
    ```bash
-   Si deseas contribuir al proyecto, siéntete libre de abrir un issue o enviar un pull request.
+   Si deseas contribuir al proyecto, siéntete libre de abrir un issue.
 
 ## Página del proyecto (Project Page)
    ```bash
