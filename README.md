@@ -1,7 +1,7 @@
 # roadmap-acordeon
 accordion component that displays a list of questions or headings
 
-## Project Page:
+## Project Page: https://roadmap.sh/projects/accordion
    https://github.com/edionel/roadmap-acordeon
 
 # Acordeón Interactivo
